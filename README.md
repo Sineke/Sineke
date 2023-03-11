@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sineke
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Server-Side Development
 - 💞️ I’m looking to collaborate on any web dev projecy
 - 📫 How to reach me On my email - masekosineke75@gmail.com 
 
